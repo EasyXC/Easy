@@ -2,6 +2,9 @@
 ### 项目定位
 EasyDemo 是一个基于 **EasyTV接口分享（E接口）** 应用界面设计的示范性 Android 项目。本项目的核心目标是：
 
+APP预览
+<img width="395" height="703" alt="image" src="https://github.com/user-attachments/assets/3864768f-54cc-457c-ba7e-edf375049237" />
+
 1. **界面复刻**：完全复刻 EasyTV接口分享的风格界面设计
 2. **功能剥离**：保留完整的 UI 架构和交互逻辑，但移除所有核心业务功能
 3. **学习参考**：为 Android 开发者提供一个标准的 Material Design + iOS 风格混合设计的参考案例
