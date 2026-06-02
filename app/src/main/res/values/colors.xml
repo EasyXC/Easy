@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#007AFF</color>
+    <color name="brand_primary_dark">#005EC4</color>
+    <color name="brand_accent">#007AFF</color>
+    <color name="brand_accent_light">#4DA3FF</color>
+
+    <color name="background_light">#F2F2F7</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="card_light">#FFFFFF</color>
+    <color name="grouped_bg">#F2F2F7</color>
+
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#AEAEB2</color>
+
+    <color name="divider">#C6C6C8</color>
+    <color name="divider_light">#E5E5EA</color>
+
+    <color name="tag_recommend">#34C759</color>
+    <color name="tag_stable">#007AFF</color>
+    <color name="tag_hot">#FF3B30</color>
+    <color name="tag_default">#8E8E93</color>
+
+    <color name="star_yellow">#FF9500</color>
+    <color name="status_online">#34C759</color>
+    <color name="status_offline">#FF3B30</color>
+    <color name="status_checking">#8E8E93</color>
+
+    <color name="frosted_overlay">#E6FFFFFF</color>
+    <color name="frosted_nav">#D9FFFFFF</color>
+    <color name="frosted_bottom">#D9FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
